@@ -1,0 +1,95 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "email": "john@example.com",
+            "age": 30,
+            "gender": "male",
+            "avatar_url": "http://localhost:3000/assets/userOne.jpg",
+            "created_at": "2025-10-14 12:17:55"
+        },
+        {
+            "id": 2,
+            "name": "Name change test ",
+            "email": "jane@example.com",
+            "age": 25,
+            "gender": "female",
+            "avatar_url": "https://plus.unsplash.com/premium_photo-1687832783343-9b79ccb831b8?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "created_at": "2025-10-14 12:17:55"
+        },
+        {
+            "id": 3,
+            "name": "Bob Johnson",
+            "email": "bob@example.com",
+            "age": 35,
+            "gender": "male",
+            "avatar_url": "https://images.pexels.com/photos/5195605/pexels-photo-5195605.jpeg",
+            "created_at": "2025-10-14 12:17:55"
+        },
+        {
+            "id": 4,
+            "name": "Alice Williams",
+            "email": "alice@example.com",
+            "age": 28,
+            "gender": "female",
+            "avatar_url": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg",
+            "created_at": "2025-10-14 12:17:55"
+        },
+        {
+            "id": 5,
+            "name": "Charlie Brown",
+            "email": "charlie@example.com",
+            "age": 32,
+            "gender": "male",
+            "avatar_url": "https://images.pexels.com/photos/4101967/pexels-photo-4101967.jpeg",
+            "created_at": "2025-10-14 12:17:55"
+        },
+        {
+            "id": 6,
+            "name": "Eve Green",
+            "email": "eve@example.com",
+            "age": 27,
+            "gender": "female",
+            "avatar_url": "https://images.pexels.com/photos/29014886/pexels-photo-29014886.jpeg",
+            "created_at": "2025-10-14 12:17:55"
+        },
+        {
+            "id": 7,
+            "name": "Frank White",
+            "email": "frank@example.com",
+            "age": 31,
+            "gender": "male",
+            "avatar_url": "https://images.pexels.com/photos/30254254/pexels-photo-30254254.jpeg",
+            "created_at": "2025-10-14 12:17:55"
+        },
+        {
+            "id": 8,
+            "name": "Grace Evans",
+            "email": "grace@example.com",
+            "age": 29,
+            "gender": "female",
+            "avatar_url": "https://images.pexels.com/photos/21915253/pexels-photo-21915253.jpeg",
+            "created_at": "2025-10-14 12:17:55"
+        },
+        {
+            "id": 9,
+            "name": "Harry Red",
+            "email": "harry@example.com",
+            "age": 33,
+            "gender": "male",
+            "avatar_url": "https://images.pexels.com/photos/697509/pexels-photo-697509.jpeg",
+            "created_at": "2025-10-14 12:17:55"
+        },
+        {
+            "id": 10,
+            "name": "Ivy Blue",
+            "email": "ivy@example.com",
+            "age": 26,
+            "gender": "female",
+            "avatar_url": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg",
+            "created_at": "2025-10-14 12:17:55"
+        }
+    ],
+    "count": 10
+}
